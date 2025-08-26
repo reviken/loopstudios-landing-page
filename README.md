@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/reviken/loopstudios-landing-page](https://github.com/reviken/loopstudios-landing-page)
 - Live Site URL: [https://loopstudios-landing-page-1b9l6vapt.vercel.app/](https://loopstudios-landing-page-1b9l6vapt.vercel.app/)
